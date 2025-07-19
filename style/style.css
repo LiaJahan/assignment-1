@@ -4,9 +4,6 @@
     background-color: rgb(144, 228, 228, 0.3);
 }
 
-
-/* for header */
-
 .header{
     border-radius: 5px;
     text-align: center;
@@ -44,6 +41,7 @@
 .display-flex{
     display: flex;
 }
+
 .image{
     border-radius: 20px;
 }
@@ -75,10 +73,6 @@ text-align: left;
     cursor: pointer;
 
 }
-
-/* header part end */
-
-/* main */
 
 .box {
     display: flex;
@@ -151,8 +145,6 @@ align-self: flex-start;
 width: auto;
 }
 
-/* Inspiration section */
-
 .ins-sec{
     margin: 88px 152px 151px 148px;
     text-align: center;
@@ -189,10 +181,6 @@ line-height: 37px;
 .targets {
   margin: 10px 20px;
 }
-
-
-
-/* for target section */
 
 .target-section{
     margin: 150px;
@@ -301,7 +289,6 @@ text-align: left;
 text-decoration-line: underline;
 }
 
-
 .layer-header2{
     font-size: 60px;
     font-weight: bolder;
@@ -349,8 +336,7 @@ text-decoration-line: underline;
     border-radius: 16px;
     background: rgba(125, 201, 239, 0.02);
     margin: 50px auto;
-    
-}
+    }
 
 .footer-box{
     margin: auto;
